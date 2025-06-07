@@ -1,6 +1,6 @@
-# Backend AICTE
+# Backend
 
-This is the backend service for the AICTE project, built with Node.js, Express, and MongoDB.
+This is the backend service for the internship project, built with Node.js, Express, and MongoDB.
 
 ## Prerequisites
 
