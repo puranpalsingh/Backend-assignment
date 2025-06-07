@@ -24,7 +24,7 @@ Backend_Aicte/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd Backend_Aicte
+cd Backend-assignment
 ```
 
 2. Install dependencies:
